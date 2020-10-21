@@ -10,6 +10,7 @@
 * June 18: Deep learning and computer vision for real-time procedure annotation, CARS 2019, Rennes, France
 * May 16-17:International Conference in Innovative Teaching: Improving the University for Future Generations
 * January 30: 3D Slicer tutorial for African collaborators of the MacBioIDI project
+
 ## 2018
 * December 13: 3D Slicer Seminar, Dakar, Senegal
 * November 25-30: 104th Annual Meeting of the Radiological Society of North America (RSNA 2018), Chicago, IL
@@ -20,6 +21,7 @@
 * June 12: BWH Radiology Residency Research Course Seminar, Boston, MA
 * May 30: 3D Slicer Training Workshop, Brain and Spine Institute, Paris, France
 * March 5-7: 3D Slicer Training Workshop, Las Palmas de Gran Canaria, Spain
+
 ## 2017
 * November 26-December 1: 103rd Annual Meeting of the Radiological Society of North America, RSNA 2017, Chicago, IL
 * November 20: Harvard-MIT Division of Health Science and Technology HST.583 Lab - Brain Mapping for Neurosurgery, MIT, Cambridge, MA​​​​​​​
