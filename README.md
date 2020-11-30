@@ -1,3 +1,7 @@
+## 3D Slicer Workshops
+3D Slicer Trainig events are hands-on workshops where participants process datasets using 3D Slicer. The workshops cover a wide range of topics that include image segmentation, image registration, 3D printing, artificial intelligence and diffusion MRI tractography analysis. 
+
+The workshops can be tailored to the needs of a specific audience. To request 3D Slicer training sessions on a specific topic for individuals, institutions or groups, please send an e-mail to Sonia Pujol (spujol@bwh.harvard.edu).
 
 ## 2019 
 * December 1-6: 105th Annual Meeting of the Radiological Society of North America (RSNA 2019), Chicago, IL
