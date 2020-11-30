@@ -1,5 +1,5 @@
 ## 3D Slicer Workshops
-3D Slicer Trainig events are hands-on workshops where participants process datasets using 3D Slicer. The workshops cover a wide range of topics that include image segmentation, image registration, 3D printing, artificial intelligence and diffusion MRI tractography analysis. 
+3D Slicer workshops enable clinicians and scientists all around the world to learn 3D Slicer fundamentals. The workshops are organized into series of hands-on sessions where participants process datasets using 3D Slicer. The workshops cover a wide range of topics that include image segmentation, image registration, 3D printing, artificial intelligence, diffusion MRI tractography and image-guided therapy. 
 
 The workshops can be tailored to the needs of a specific audience. To request 3D Slicer training sessions on a specific topic for individuals, institutions or groups, please send an e-mail to Sonia Pujol (spujol@bwh.harvard.edu).
 
